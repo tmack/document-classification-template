@@ -133,3 +133,4 @@ dmypy.json
 
 # project settings
 *local.settings.json
+/data/rvl-cdip/
