@@ -1,5 +1,5 @@
-# Python Project Template 
-A template for starting a new project in python. This project contains basic infrastructure for testing and CI/CD with github actions.
+# Document Classification Template
+A template for Document Classification using Deep Learning. Inspired by: https://medium.com/analytics-vidhya/how-i-built-a-document-classification-system-using-deep-convolutional-neural-networks-e1d9a83cbabd
 
 ## Installing Requirements
 ```bash
